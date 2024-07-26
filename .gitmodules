@@ -1,0 +1,3 @@
+[submodule "vcd2wavedrom"]
+	path = vcd2wavedrom
+	url = https://github.com/Toroid-io/vcd2wavedrom.git
